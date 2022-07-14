@@ -1,2 +1,2 @@
-# Hi, I’m @troysidle. I’m interested in Web Development. 
-## I’m currently learning HTML, CSS, JavaScript. I’m looking to collaborate on Web Design. Reach me at troysidle@gmail.com. I'm on Twitter @honeydewlimeade.
+# Hello, I’m Troy Sidle.
+### I'm a Web Developer exploring the capabilities of CSS, JavaScript. My current projet is honeydewlimeade.com and I blog about it on Medium. After 17 years in the hospitality, I'm going back to my roots with a degree in Computer Science. I can be reached at troysidle@gmail.com.
