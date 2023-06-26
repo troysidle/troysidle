@@ -1,6 +1,6 @@
 # Hello I'm Troy Sidle.
 
-## As a new web developer, I’m capitalizing on skills obtained with my degree in computer science.
+## As a developer, I’m building on skills obtained with my degree in computer science.
 
 ### For several years I worked professionally in the hospitality industry, specifically with craft cocktails. While living in New York City for the past 12 years, I’ve opened bars, consulted for big name brands and have recipes published in several cocktail books.
 
